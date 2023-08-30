@@ -4,7 +4,7 @@
 - 😁 I’m currently learning how to develop **Open Source applications** & **Web applications**
 - I know how to use SQL, Python, C++, Javascript, HTML & CSS, among others.
 
-*Prospects
+*Prospects*
 - I have begun studying on my own time cybersecurity, as I find the field appealing.
 
 <h3 align="left">Connect with me:</h3>
