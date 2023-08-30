@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-- 😁 I’m currently learning **Algorithms & data structure**
+- 😁 I’m currently learning how to develop **Open Source applications** & **Web applications**
+- I know how to use SQL, Python, C++, Javascript, HTML & CSS, among others.
+
+*Prospects
+- I have begun studying on my own time cybersecurity, as I find the field appealing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
